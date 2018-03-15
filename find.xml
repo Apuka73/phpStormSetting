@@ -10,14 +10,24 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.p</mask>
+      <mask>*&gt;js</mask>
+      <mask>*&gt;j</mask>
+      <mask>*&gt;</mask>
+      <mask>*.j</mask>
+      <mask>*.v</mask>
+      <mask>*.jsk</mask>
+      <mask>k*.js</mask>
+      <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.ph</mask>
       <mask>*.</mask>
       <mask>*.vo</mask>
+      <mask>*.vol</mask>
       <mask>*.volt</mask>
+      <mask>*.p</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
