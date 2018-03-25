@@ -10,7 +10,6 @@
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*&gt;js</mask>
       <mask>*&gt;j</mask>
@@ -25,8 +24,9 @@
       <mask>*.</mask>
       <mask>*.vo</mask>
       <mask>*.vol</mask>
-      <mask>*.volt</mask>
       <mask>*.p</mask>
+      <mask>*.css</mask>
+      <mask>*.volt</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
