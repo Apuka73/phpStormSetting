@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="volt" type="Twig" />
+      <mapping ext="xlm" type="XML" />
     </extensionMap>
   </component>
 </application>
